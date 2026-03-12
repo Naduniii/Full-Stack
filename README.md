@@ -1,4 +1,4 @@
-# Simple Social — FastAPI Image & Video Upload Application
+# StreamShare — FastAPI Image & Video Upload Application
 
 Simple Social is a full-stack web application built with FastAPI, Streamlit, SQLite, and ImageKit. The application allows users to create accounts, upload images and videos, and view posts through a simple social-style feed.
 
@@ -73,4 +73,5 @@ project-root
 ├── pyproject.toml
 
 └── README.md
+
 
