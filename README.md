@@ -53,25 +53,14 @@ https://imagekit.io/docs
 ## Project Structure
 project-root
 │
-
 ├── app
-
-│ ├── app.py # FastAPI application
-
-│ ├── db.py # Database configuration
-
-│ ├── schemas.py # Pydantic models
-
-│ ├── images.py # ImageKit integration
-
-│ └── auth.py # Authentication setup
-
+│   ├── app.py
+│   ├── db.py
+│   ├── schemas.py
+│   ├── images.py
+│   └── auth.py
 │
-├── frontend.py # Streamlit frontend
-
-├── .env # Environment variables
-
-├── pyproject.toml # Project dependencies
-
+├── frontend.py
+├── .env
+├── pyproject.toml
 └── README.md
-
