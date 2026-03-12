@@ -54,13 +54,23 @@ https://imagekit.io/docs
 project-root
 │
 ├── app
+
 │   ├── app.py
+
 │   ├── db.py
+
 │   ├── schemas.py
+
 │   ├── images.py
+
 │   └── auth.py
+
 │
 ├── frontend.py
+
 ├── .env
+
 ├── pyproject.toml
+
 └── README.md
+
